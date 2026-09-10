@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="1200" height="630" role="img" aria-label="コンタクトレンズを購入するなら、眼科併設のコンタクトショップへ｜シティコンタクト">
+  <defs>
+    <linearGradient id="oBg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#FFF3F6"/><stop offset="60%" stop-color="#FDE7EE"/><stop offset="100%" stop-color="#FBF3E9"/>
+    </linearGradient>
+    <linearGradient id="oPink" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E4638A"/><stop offset="100%" stop-color="#F292AF"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#oBg)"/>
+  <circle cx="1010" cy="315" r="250" fill="#FFFFFF" opacity=".55"/>
+  <g transform="translate(1010 315)">
+    <circle r="180" fill="none" stroke="url(#oPink)" stroke-width="26" opacity=".9"/>
+    <circle r="128" fill="none" stroke="#F292AF" stroke-width="3" opacity=".7"/>
+    <circle r="66" fill="none" stroke="#F5C9D7" stroke-width="3"/>
+    <path d="M-128-104a180 180 0 0 1 96-66" fill="none" stroke="#FFFFFF" stroke-width="14" stroke-linecap="round"/>
+  </g>
+  <g font-family="'Noto Sans JP','Hiragino Sans','Yu Gothic',sans-serif">
+    <text x="90" y="196" font-size="26" font-weight="700" fill="#E4638A" letter-spacing="5">CITY CONTACT ／ レンズの選び方</text>
+    <text x="90" y="292" font-size="50" font-weight="700" fill="#5C4A52">コンタクトを買うなら、</text>
+    <text x="90" y="364" font-size="50" font-weight="700" fill="#C2456C">眼科併設のお店で。</text>
+    <rect x="90" y="406" width="110" height="6" rx="3" fill="#E4638A"/>
+    <text x="90" y="470" font-size="26" fill="#6E5F66">診察・レンズ選び・定期検査を、ひとつづきに。</text>
+    <text x="90" y="540" font-size="26" font-weight="700" fill="#5C4A52">シティコンタクト</text>
+  </g>
+</svg>
